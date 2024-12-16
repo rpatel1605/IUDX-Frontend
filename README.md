@@ -23,12 +23,25 @@ A simple **Consent Dashboard** React application that displays active user conne
 
 1. **Clone the repository**:
 
+
    ```bash
    git clone https://github.com/your-username/consent-dashboard.git
    cd consent-dashboard
 
 
-2. **Install Dependenciues**:
+2. **Install Dependencies**:
 
-  ```bash
-  npm install
+
+    ```bash
+    npm install
+
+3. **Run the project**:
+
+
+    ```bash
+    npm start
+4. **Open application in your browser**:
+
+
+    ```bash
+    http://localhost:3000
