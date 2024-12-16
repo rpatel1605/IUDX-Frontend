@@ -19,13 +19,6 @@ A simple **Consent Dashboard** React application that displays active user conne
 
 ---
 
-## Demo Screenshot
-
-> **Dashboard Example:**
-![Consent Dashboard Screenshot](screenshot.png)
-
----
-
 ## Installation
 
 1. **Clone the repository**:
@@ -33,3 +26,9 @@ A simple **Consent Dashboard** React application that displays active user conne
    ```bash
    git clone https://github.com/your-username/consent-dashboard.git
    cd consent-dashboard
+
+
+2. **Install Dependenciues**:
+
+  ```bash
+  npm install
